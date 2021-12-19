@@ -1,8 +1,8 @@
 name: MicroPython
 
-on:
+on:true
   push:
-  pull_request:
+  pull_request:true
   release:
     types: [created]
 
