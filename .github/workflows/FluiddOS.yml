@@ -1,3 +1,5 @@
+#!/bin/usr
+
 name: Build FluiddPI - RapsiOS
 on:
   push:
